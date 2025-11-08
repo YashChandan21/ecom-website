@@ -24,6 +24,20 @@ It allows users to browse products, add them to a cart, and place orders with a 
 
 ---
 
+## 📸 Preview
+
+**Home Page**
+![Home Page]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3482162-7121-47eb-8052-0431af9844bc" />
+
+
+**Cart Page**
+![Cart Page]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5813fd60-fd80-4617-8def-771f59b13642" />
+
+
+**Checkout Receipt**
+![Checkout Receipt]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32e4bceb-b4b0-4d41-85ef-1534e428d386" />
+
+
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
